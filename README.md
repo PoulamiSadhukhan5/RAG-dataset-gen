@@ -52,7 +52,7 @@ Follow the notebook to extract the data.
 
 ## Prompting
 Open `Prompting.ipynb` in Google Colab
-<a target="_blank" href="https://colab.research.google.com/github/catastropiyush/RAG-dataset-gen/blob/main/Prompting.ipynb">
+<a target="_blank" href="https://colab.research.google.com/github/PoulamiSadhukhan5/RAG-dataset-gen/blob/main/Prompting.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
